@@ -3,6 +3,11 @@ body {
     color: ghostwhite;
 }
 
+header {
+    border: solid 2px rgb(rgb(222, 15, 15), rgb(19, 205, 222), rgb(17, 215, 233)) ;}
+    font-size: 32 ;
+    padding: 10px;
+    color: red
 h1 {
     font-size: 30px;
     text-align: center;
