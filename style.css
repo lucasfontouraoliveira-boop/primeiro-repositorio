@@ -1,20 +1,34 @@
-body {
-    background-color: black;
-    color: ghostwhite;
+body {background-color: rgb(255, 0, 0);
+color:rgb(255, 255, 255)
+font-family: "crossorigin", sans-serif
 }
 
 header {
-    border: solid 2px rgb(rgb(222, 15, 15), rgb(19, 205, 222), rgb(17, 215, 233)) ;}
-    font-size: 32 ;
-    padding: 10px;
-    color: red
-h1 {
-    font-size: 30px;
-    text-align: center;
-    text-transform: uppercase;
+ border: solid 2px #ff0000;
+ font-size: 32px;
+ padding: 10px;
+ color: #ffffff;
 }
 
- p  {
-    font-size: 16PX;
-    color: crimson;
+section {
+ background-color: #fd0c09; /* cor escolhida */
+ padding-bottom: 80px;
+ padding-top: 80px;
+ display: flex;
+ justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;  
+}
+ 
+h1 {
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 16px;
+  color: rgb(252, 252, 252);
 }
